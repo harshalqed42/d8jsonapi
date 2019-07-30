@@ -1,0 +1,13 @@
+dropbox_enabled: 1
+dropbox_app_key: mcxleppc35doaq1
+google_drive_enabled: 1
+google_developer_key: null
+google_client_id: 81056453181-drn53aucnho157svn7lg4j3f0alojqre.apps.googleusercontent.com
+google_app_id: QxXVrb2r7J4rxM56ElrNiUd0
+google_scope: 'https://www.googleapis.com/auth/drive.file'
+box_enabled: 0
+box_client_id: ''
+one_drive_enabled: 0
+onedrive_app_id: ''
+example_enabled: 0
+example_client_id: ''

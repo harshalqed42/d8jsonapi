@@ -1,0 +1,14 @@
+uuid: b667ab9e-397b-4659-9378-b567d7f2e6d2
+name: 'JSON API'
+mail: harshal.a.pradhan@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
